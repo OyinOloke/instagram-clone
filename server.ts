@@ -13,5 +13,5 @@ sequelize
 
 })
 sequelize.sync();
- console.log("Oyin rules")
+ console.log("Oyin still rules")
 app.listen(3000, ()=>{console.log("App is listening on port 3000");})
